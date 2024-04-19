@@ -1,0 +1,11 @@
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\bin\Debug\360ROMPatcher.exe.config
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\bin\Debug\360ROMPatcher.exe
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\bin\Debug\360ROMPatcher.pdb
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\bin\Debug\360ROMPatcher.xml
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\360ROMPatcher.vbprojAssemblyReference.cache
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\_360ROMPatcher.Resources.resources
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\360ROMPatcher.vbproj.GenerateResource.cache
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\360ROMPatcher.vbproj.CoreCompileInputs.cache
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\360ROMPatcher.exe
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\360ROMPatcher.xml
+C:\Users\darkm\source\repos\360ROMPatcher\360ROMPatcher\obj\Debug\360ROMPatcher.pdb
