@@ -75,12 +75,13 @@ Module Module1
                 'Dim tFilename As String = targetFile.Substring(targetFile.LastIndexOf("."))
 
                 'Patch the damn thing!
-                Dim startArgs As String = "-d -s " + targetFile + " " + cmds(0) + " " + targetFile + "[P]"
+                'Dim startArgs As String = "-d -s " + targetFile + " " + cmds(0) + " " + targetFile + "[P]"
+                Dim startArgs As String = "-d -s " + Chr(34) + targetFile + Chr(34) + " " + cmds(0) + " " + Chr(34) + targetFile + "[P]" + Chr(34)
                 Console.WriteLine(Environment.CurrentDirectory + "\xdelta.exe " + startArgs)
                 Console.WriteLine()
                 Process.Start(Environment.CurrentDirectory + "\xdelta.exe", startArgs)
                 'an ounce of prevention....
-                Threading.Thread.Sleep(5000)
+                Threading.Thread.Sleep(1000)
                 File.Delete(targetFile)
                 File.Move(targetFile + "[P]", targetFile)
             End If
